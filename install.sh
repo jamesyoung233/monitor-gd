@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 set -e
 
-daili='https://git.metauniverse-cn.com/'
+daili='http://gitproxy.elmagnifico.tech/'
 
 if [ -d /ql/data/config ];then
     QLMainPath='/ql/data'
